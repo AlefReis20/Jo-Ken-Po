@@ -28,6 +28,6 @@ Projeto Criado por:
 <a href="https://www.linkedin.com/in/pedroh-dev/">Pedro Dev</a>
 <br>
 Desenvolvido por:
-<a href="https://www.linkedin.com/in/alef-reis202/">Alef Reis</a>
+<a href="https://www.linkedin.com/in/alef-reis2022/">Alef Reis</a>
 </h3>
 
