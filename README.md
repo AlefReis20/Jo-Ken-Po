@@ -25,9 +25,9 @@ Acesse o jogo <a href="https://nimble-pastelito-ab9a68.netlify.app/" target="_bl
 <hr>
 
 Projeto Criado por:
-<a href="https://www.linkedin.com/in/pedroh-dev/" target="_blank">Pedro Dev</a>
+<a href="https://www.linkedin.com/in/pedroh-dev/">Pedro Dev</a>
 <br>
 Desenvolvido por:
-<a href="https://www.linkedin.com/in/alef-reis202/" target="_blank">Alef Reis</a>
+<a href="https://www.linkedin.com/in/alef-reis202/">Alef Reis</a>
 </h3>
 
